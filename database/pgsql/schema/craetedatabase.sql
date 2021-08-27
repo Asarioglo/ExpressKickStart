@@ -1,0 +1,2 @@
+CREATE DATABASE appdata ENCODING utf8;
+\l
